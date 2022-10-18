@@ -5,9 +5,9 @@ PortSystem          1.0
 name                qbe
 version             1.0
 categories          devel
-platforms           darwin
 license             MIT
-maintainers         @alterae
+maintainers         {@alterae} \
+                    openmaintainer
 description         Compiler backend
 long_description    QBE is a compiler backend that aims to provide 70% of the performance of industrial optimizing compilers in 10% of the code.
 homepage            https://c9x.me/compile/
